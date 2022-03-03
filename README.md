@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](https://metrics.lecoq.io/thenithinbalaji?template=classic&repositories.forks=true&introduction=1&lines=1&notable=1&languages=1&people=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.details=bytes-size&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=25&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=true&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit%2C%20issues&introduction.title=true&config.timezone=Asia%2FCalcutta)
+
