@@ -19,6 +19,7 @@
 - Open Source 
 - Chat Bots
 - Minimalism 
+<br>
 ---
 
 ### Contact Me
