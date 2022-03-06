@@ -1,6 +1,6 @@
 # Hello There!
 
-[![Views](https://komarev.com/ghpvc/?username=thenithinbalaji&color=blue&label=PROFILE+VIEWS)](https://github.com/thenithinbalaji)
+[![Views](https://komarev.com/ghpvc/?username=thenithinbalaji&color=blue&label=PROFILE+VIEWS)](https://github.com/thenithinbalaji)   
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://raw.githubusercontent.com/thenithinbalaji/thenithinbalaji/main/README.md)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=&sort=stargazers)
 
