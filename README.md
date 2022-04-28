@@ -17,7 +17,7 @@
 
 - 🐍 [Python, C++](https://www.hackerrank.com/thenithinbalaji)
 - 💻 [Competitive Programming](https://codeforces.com/profile/thenithinbalaji)
-- 🌐 Web Development
+- 🌐 [Web Development](https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=html&sort=stargazers)
 - 🤓 UI/UX
 - 🤖 [Discord Bots](https://discordbotlist.com/users/756511707228143646)
 - 📇 [Open Source](https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=&sort=stargazers) 
