@@ -11,14 +11,11 @@
 
 ### Interests
 
-- 🐍 [Python, C++](https://www.hackerrank.com/thenithinbalaji)
-- 💻 [Competitive Programming](https://codeforces.com/profile/thenithinbalaji)
-- 🌐 [Web Development](https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=html&sort=stargazers)
-- 🤓 UI/UX
-- 🤖 [Discord Bots](https://discordbotlist.com/users/756511707228143646)
+- 🐍 [Python & C++](https://www.hackerrank.com/thenithinbalaji)
 - 📇 [Open Source](https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=&sort=stargazers) 
-- 💬 Chat Bots
-- ✔️ Minimalism 
+- 🌐 [Web Development](https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=html&sort=stargazers)
+- 💬 [Chat Bots](https://discordbotlist.com/users/756511707228143646)
+- 💻 [Competitive Programming](https://codeforces.com/profile/thenithinbalaji)
 ---
 
 ### Contact Me
