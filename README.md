@@ -19,9 +19,6 @@
 - 📇 [Open Source](https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=&sort=stargazers) 
 - 💬 Chat Bots
 - ✔️ Minimalism 
-
-<br/>
-
 ---
 
 ### Contact Me
