@@ -9,10 +9,6 @@
 
 ---
 
-<a href = "https://github.com/thenithinbalaji?tab=repositories">
-<img alt="interests gif" src="https://user-images.githubusercontent.com/73932121/156936502-bd32a7b8-7c72-47b2-aa43-b35f5547d28f.gif" align="right"/>
-</a>
-
 ### Interests
 
 - 🐍 [Python & C++](https://www.hackerrank.com/thenithinbalaji)
@@ -20,9 +16,6 @@
 - 🌐 [Web Development](https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=html&sort=stargazers)
 - 💬 [Chat Bots](https://discordbotlist.com/users/756511707228143646)
 - 💻 [Competitive Programming](https://codeforces.com/profile/thenithinbalaji)
-
-<br/><br/><br/><br/><br/>
-
 ---
 
 ### Contact Me
