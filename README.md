@@ -21,7 +21,7 @@
 - 💬 [Chat Bots](https://discordbotlist.com/users/756511707228143646)
 - 💻 [Competitive Programming](https://codeforces.com/profile/thenithinbalaji)
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 ---
 
