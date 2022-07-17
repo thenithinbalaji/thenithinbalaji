@@ -6,7 +6,7 @@
 
 I'm Nithin - A web developer, minimalism advocate, moderator, and information technology student from India. I'm interested in development, moderation, open-source, and building thriving online communities. I work on random projects in my free time, a lot involving Discord! I build cool stuff!!   
 
-- 📫 **How to reach me -** [thenithinbalaji@outlook.in](mailto:thenithinbalaji@outlook.in)
+- 📫 **How to reach me -** [thenithinbalaji@gmail.com](mailto:thenithinbalaji@gmail.com)
 - 😄 **Pronouns -** He/Him  
 <br>
 <p align="center">
@@ -29,7 +29,7 @@ I'm Nithin - A web developer, minimalism advocate, moderator, and information te
 ### Contact Me
 
 <p align = 'center'>
-  <a href = 'mailto:thenithinbalaji@outlook.in' target="_blank"> 
+  <a href = 'mailto:thenithinbalaji@gmail.com' target="_blank"> 
     <img src = 'https://user-images.githubusercontent.com/73932121/156936080-302b8401-fced-44ec-a759-aa17e3476991.svg'>
   </a>
   <a href = 'https://www.linkedin.com/in/thenithinbalaji/' target="_blank"> 
