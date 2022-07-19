@@ -23,7 +23,7 @@ I'm Nithin - A web developer, minimalism advocate, moderator, and information te
 - 📇 [Open Source](https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=&sort=stargazers) 
 - 🌐 [Web Development](https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=html&sort=stargazers)
 - 💬 [Chat Bots](https://discordbotlist.com/users/756511707228143646)
-- 💻 [Competitive Programming](https://codeforces.com/profile/thenithinbalaji)
+- 💻 [Competitive Programming](#)
 ---
 
 ### Contact Me
