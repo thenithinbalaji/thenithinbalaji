@@ -1,5 +1,4 @@
 # Hello There!
-[![Waka Readme](https://github.com/thenithinbalaji/thenithinbalaji/actions/workflows/update-stats.yml/badge.svg)](https://github.com/thenithinbalaji/thenithinbalaji/actions)
 [![pages-build-deployment](https://github.com/thenithinbalaji/thenithinbalaji/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://thenithinbalaji.github.io/thenithinbalaji/)
 [![Views](https://komarev.com/ghpvc/?username=thenithinbalaji&color=blue&label=PROFILE+VIEWS)](https://github.com/thenithinbalaji)   
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://raw.githubusercontent.com/thenithinbalaji/thenithinbalaji/main/README.md)
