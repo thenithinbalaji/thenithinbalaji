@@ -12,9 +12,8 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          #COMMIT_BY_ME: "True"
-          #COMMIT_MESSAGE: "Automated Stats Update"
           SHOW_PROJECTS: "True"
           SHOW_COMMIT: "True"
           SHOW_LANGUAGE: "True"
