@@ -1,2 +1,1 @@
-*.gitattributes linguist-language=Fredge
-*.yml linguist-language=Singularity
+*.* linguist-language=Singularity
