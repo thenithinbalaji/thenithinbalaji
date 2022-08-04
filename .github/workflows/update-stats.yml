@@ -16,6 +16,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           #COMMIT_BY_ME: "True"
           #COMMIT_MESSAGE: "Automated Stats Update"
+          SHOW_TOTAL_CODE_TIME: "False" 
           SHOW_COMMIT: "True"
           SHOW_EDITORS: "False"
           SHOW_TIMEZONE: "False"
