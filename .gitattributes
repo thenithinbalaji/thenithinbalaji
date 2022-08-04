@@ -1,2 +1,2 @@
-*.md linguist-language=Fredge
+*.gitattributes linguist-language=Fredge
 *.yml linguist-language=Singularity
