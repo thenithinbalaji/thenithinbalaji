@@ -13,8 +13,8 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          COMMIT_BY_ME: "True"
-          COMMIT_MESSAGE: "Automated Stats Update"
+          #COMMIT_BY_ME: "True"
+          #COMMIT_MESSAGE: "Automated Stats Update"
           SHOW_PROJECTS: "True"
           SHOW_COMMIT: "True"
           SHOW_LANGUAGE: "True"
@@ -24,3 +24,4 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
+          SHOW_UPDATED_DATE: "False"
