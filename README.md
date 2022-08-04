@@ -28,19 +28,6 @@ I'm Nithin - A web developer, minimalism advocate, moderator, and information te
 ---
 
 <!--START_SECTION:waka-->
-**I Mostly Code in Python** 
-
-```text
-Python                   4 repos             ██████░░░░░░░░░░░░░░░░░░░   26.67% 
-HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
-
-```
-
-
-
 <!--END_SECTION:waka-->
 
 ---
