@@ -9,7 +9,7 @@
 I'm Nithin - A web developer, minimalism advocate, moderator, and information technology student from India. I'm interested in development, moderation, open-source, and building thriving online communities. I work on random projects in my free time, a lot involving Discord! I build cool stuff!!   
 
 - 📫 **How to reach me -** [thenithinbalaji@gmail.com](mailto:thenithinbalaji@gmail.com)
-- 💬 **Join My Discord Server -** https://discord.gg/Xqgzyngnda
+- 💬 **Join My Discord Server -** [https://discord.gg/Xqgzyngnda](https://discord.gg/Xqgzyngnda)
 - 😄 **Pronouns -** He/Him 
 
 <br>
