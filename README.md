@@ -25,11 +25,13 @@ I'm Nithin - A web developer, minimalism advocate, moderator, and information te
   <summary>Click here to view my interests!</summary>
   <br>
   
-- 🐍 [Python & C++](https://www.hackerrank.com/thenithinbalaji)
-- 📇 [Open Source](https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=&sort=stargazers) 
-- 🌐 [Web Development](https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=html&sort=stargazers)
-- 💬 [Chat Bots](https://discordbotlist.com/users/756511707228143646)
-- 💻 Competitive Programming
+<ul>
+    <li> 🐍 <a href = "https://www.hackerrank.com/thenithinbalaji" target="_blank">Python & C++</a></li>
+    <li> 📇 <a href = "https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=&sort=stargazers" target="_blank">Open Source</a></li>
+    <li> 🌐 <a href = "https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=html&sort=stargazers" target="_blank">Web Development</a></li>
+    <li> 💬 <a href = "https://discordbotlist.com/users/756511707228143646" target="_blank">Chat Bots</a></li>
+    <li> 💻 Competitive Programming </li>
+</ul>
 
 </details>
 
