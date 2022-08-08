@@ -23,21 +23,16 @@ I'm Nithin - A web developer, minimalism advocate, moderator, and information te
 ## Interests & Stats
 <details>
   <summary>Click here to view my interests!</summary>
-  <br>
-  
-<ul>
-    <li> 🐍 <a href = "https://www.hackerrank.com/thenithinbalaji" target="_blank">Python & C++</a></li>
-    <li> 📇 <a href = "https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=&sort=stargazers" target="_blank">Open Source</a></li>
-    <li> 🌐 <a href = "https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=html&sort=stargazers" target="_blank">Web Development</a></li>
-    <li> 💬 <a href = "https://discordbotlist.com/users/756511707228143646" target="_blank">Chat Bots</a></li>
-    <li> 💻 Competitive Programming </li>
-</ul>
-
+  <br> 
+    <ul>
+        <li> 🐍 <a href = "https://www.hackerrank.com/thenithinbalaji" target="_blank">Python & C++</a></li>
+        <li> 📇 <a href = "https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=&sort=stargazers" target="_blank">Open Source</a></li>
+        <li> 🌐 <a href = "https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=html&sort=stargazers" target="_blank">Web Development</a></li>
+        <li> 💬 <a href = "https://discordbotlist.com/users/756511707228143646" target="_blank">Chat Bots</a></li>
+        <li> 💻 Competitive Programming </li>
+    </ul>
 </details>
 
-<details open>
-  <summary>Click here to see my code activity</summary>
-  <br>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -49,12 +44,8 @@ I'm Nithin - A web developer, minimalism advocate, moderator, and information te
 🌙 Night      90 commits     ██████░░░░░░░░░░░░░░░░░░░   26.71%
 
 ```
-
-
-
 <!--END_SECTION:waka-->
 
-</details>
 
 ## Contact Me
 <p align = 'center'>
