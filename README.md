@@ -27,7 +27,7 @@ I'm Nithin - A web developer, minimalism advocate, moderator, and information te
     <ul>
         <li> 🐍 <a href = "https://www.hackerrank.com/thenithinbalaji" target="_blank">Python & C++</a></li>
         <li> 📇 <a href = "https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=&sort=stargazers" target="_blank">Open Source</a></li>
-        <li> 🌐 <a href = "https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=html&sort=stargazers" target="_blank">Web Development</a></li>
+        <li> 🌐 <a href = "https://github.com/stars/thenithinbalaji/lists/my-web-dev-repos" target="_blank">Web Development</a></li>
         <li> 💬 <a href = "https://discordbotlist.com/users/756511707228143646" target="_blank">Chat Bots</a></li>
         <li> 💻 Competitive Programming </li>
     </ul>
