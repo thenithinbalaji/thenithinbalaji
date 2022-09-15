@@ -16,7 +16,7 @@ I'm Nithin - A web developer, minimalism advocate, moderator, and information te
 
 <p align="center">
   <a href="https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=&sort=stargazers" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,git,cpp,css,bots,mongodb,nodejs,py,vscode,js,heroku" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,flask,django,mongodb,vscode,git,cpp,bots" />
   </a>
 </p>
 
