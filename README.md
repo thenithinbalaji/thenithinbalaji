@@ -1,10 +1,10 @@
 # Hello There!
 
-[![pages-build-deployment](https://github.com/thenithinbalaji/thenithinbalaji/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://thenithinbalaji.github.io/thenithinbalaji/)
-[![Views](https://komarev.com/ghpvc/?username=thenithinbalaji&color=blue&label=PROFILE+VIEWS)](https://github.com/thenithinbalaji)<br>
-[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://raw.githubusercontent.com/thenithinbalaji/thenithinbalaji/main/README.md)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=&sort=stargazers)<br>
-[![forthebadge](assets/buy-me-a-coffee.svg)](https://www.buymeacoffee.com/thenithinbalaji)
+[![Markdown Readme Site](https://github.com/thenithinbalaji/thenithinbalaji/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://thenithinbalaji.github.io/thenithinbalaji/)
+[![Profile Views Badge](https://komarev.com/ghpvc/?username=thenithinbalaji&color=blue&label=PROFILE+VIEWS)](https://github.com/thenithinbalaji)<br>
+[![View Markdown in Raw](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://raw.githubusercontent.com/thenithinbalaji/thenithinbalaji/main/README.md)
+[![View My Repos](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=&sort=stargazers)<br>
+[![Buy Me a Coffee](https://github.com/thenithinbalaji/thenithinbalaji/blob/main/assets/buy-me-a-coffee.svg)](https://www.buymeacoffee.com/thenithinbalaji)
 
 I'm Nithin - A web developer, minimalism advocate, moderator, and information technology student from India. I'm interested in development, moderation, open-source, and building thriving online communities. I work on random projects in my free time, a lot involving Discord! I build cool stuff!!   
 
