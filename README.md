@@ -23,6 +23,11 @@ I'm Nithin Balaji (@thenithinbalaji) - A web developer, minimalism advocate, dis
   - [September Voice Assistant](https://github.com/thenithinbalaji/September-Assistant) - An open source voice assistant for Windows. Uses Tkinter, Google Speech Recognition and Wolfram Alpha Engine. Visit the [Website](https://thenithinbalaji.github.io/September-Assistant/).
   - [Pyrandtoys](https://github.com/thenithinbalaji/pyrandtoys) - A python module for generating the result of probability-based toys. Installable on any system with pip command.   
 [Read the docs](https://github.com/thenithinbalaji/pyrandtoys) | [Install From Pypi](https://pypi.org/project/pyrandtoys/)
+
+```sh
+pip install pyrandtoys
+```
+
   - [5 Personalities Prediction](https://github.com/thenithinbalaji/5Personalities) - Personality Prediction based on Big 5 Model. Uses Multinomial Logistic Regression for Classification and Tailwind, Flask for web interface. 
 
 ----
@@ -31,13 +36,6 @@ I'm Nithin Balaji (@thenithinbalaji) - A web developer, minimalism advocate, dis
 - 🍄 **Chrome Extensions** - [Website Blocker](https://github.com/thenithinbalaji/PadiDa-Extension), [GitHub Feed Blocker](https://github.com/thenithinbalaji/GitHub-Feed-Blocker)
 
 ----
-
-- ⏬ **Install my python module -** [Read about the module here](https://github.com/thenithinbalaji/pyrandtoys)
-
-```sh
-pip install pyrandtoys
-```
-
 
 - 📫 **How to reach me -** [thenithinbalaji@gmail.com](mailto:thenithinbalaji@gmail.com)
 - 💬 **Join My Discord Server -** [https://discord.gg/Xqgzyngnda](https://discord.gg/Xqgzyngnda)
