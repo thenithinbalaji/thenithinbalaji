@@ -6,7 +6,7 @@
 [![View All My Repos](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=&sort=stargazers)<br>
 [![Buy Me a Coffee](https://github.com/thenithinbalaji/thenithinbalaji/blob/main/assets/buy-me-a-coffee.svg)](https://www.buymeacoffee.com/thenithinbalaji)
 
-I'm Nithin - A web developer, minimalism advocate, moderator, and information technology student from India. I'm interested in development, moderation, open-source, and building thriving online communities. I work on random projects in my free time, a lot involving Discord! I build cool stuff!!   
+I'm Nithin Balaji (@thenithinbalaji) - A web developer, minimalism advocate, discord moderator, freelancer, and information technology student from India. I'm interested in web development, open-source, and building thriving online communities. I work on random cool projects in my free time.
 
 - 📫 **How to reach me -** [thenithinbalaji@gmail.com](mailto:thenithinbalaji@gmail.com)
 - 💬 **Join My Discord Server -** [https://discord.gg/Xqgzyngnda](https://discord.gg/Xqgzyngnda)
