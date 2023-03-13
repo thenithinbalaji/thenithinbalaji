@@ -8,12 +8,16 @@
 
 I'm Nithin Balaji (@thenithinbalaji) - A web developer, minimalism advocate, discord moderator, freelancer, and information technology student from India. I'm interested in web development, open-source, and building thriving online communities. I work on **RANDOM THINGS I FIND INTERESTING** and **COOL PROJECTS** in my free time.
 
+----
+
 - 🌐 **React Projects** - [Meme Generator](https://github.com/thenithinbalaji/Meme-Generator), [Clonebnb](https://github.com/thenithinbalaji/Clonebnb)
 
 - 🚌 **School & College Management Systems**
   - [Bus Tracker](https://github.com/thenithinbalaji/Bus-Tracker) - College Bus Tracker Web Application for *SSN College of Engineering* made using HTML, CSS, Flask and MongoDB. Tracks the buses based on the location collected from passengers travelling in the bus. 
   - [PM Poshan](https://github.com/thenithinbalaji/PM-Poshan) - Automated Reporting & Management System for Mid-Day Meal Scheme - PM Poshan. A web app built using Flask. *Selected for finals of Smart India Hackathon 2022.*
   - [School Manager](https://github.com/thenithinbalaji/School-Manager) - Track the school mess menu, health & attendance of students with exclusive parent, student, school and admin dashboards. Made with HTML, Tailwind, Flask and MongoDB.
+
+----
  
 - 🌳 **Stuff using Python**
   - [September Voice Assistant](https://github.com/thenithinbalaji/September-Assistant) - An open source voice assistant for Windows. Uses Tkinter, Google Speech Recognition and Wolfram Alpha Engine. Visit the [Website](https://thenithinbalaji.github.io/September-Assistant/).
@@ -21,8 +25,12 @@ I'm Nithin Balaji (@thenithinbalaji) - A web developer, minimalism advocate, dis
 [Read the docs](https://github.com/thenithinbalaji/pyrandtoys) | [Install From Pypi](https://pypi.org/project/pyrandtoys/)
   - [5 Personalities Prediction](https://github.com/thenithinbalaji/5Personalities) - Personality Prediction based on Big 5 Model. Uses Multinomial Logistic Regression for Classification and Tailwind, Flask for web interface. 
 
+----
+
 - 💬 **Discord ChatBots & Their Support Sites** - [Doge Memer Bot](https://github.com/thenithinbalaji/Doge-Memer), [Doge Memer Website](https://github.com/thenithinbalaji/Doge-Memer-Website), [Krypto Cry Bot](https://github.com/thenithinbalaji/Krypto-Cry) 
 - 🍄 **Chrome Extensions** - [Website Blocker](https://github.com/thenithinbalaji/PadiDa-Extension), [GitHub Feed Blocker](https://github.com/thenithinbalaji/GitHub-Feed-Blocker)
+
+----
 
 - ⏬ **Install my python module -** [Read about the module here](https://github.com/thenithinbalaji/pyrandtoys)
 
