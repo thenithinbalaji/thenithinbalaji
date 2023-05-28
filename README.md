@@ -19,7 +19,7 @@ I'm Nithin Balaji (@thenithinbalaji) - A web developer, minimalism advocate, dis
 
 ----
  
-- 🌳 **Stuff using Python**
+- 🌳 **Built using Python**
    - [September Voice Assistant](https://github.com/thenithinbalaji/September-Assistant) - An open source voice assistant for Windows. Uses Google Speech Recognition and Wolfram Alpha Engine. Visit the [Website](https://thenithinbalaji.github.io/September-Assistant/) - Python Tkinter, APIs
    - [Pyrandtoys](https://github.com/thenithinbalaji/pyrandtoys) - A python module for generating the result of probability-based toys. Installable on any system with pip command.   
 [Read the docs](https://github.com/thenithinbalaji/pyrandtoys) | [Install From Pypi](https://pypi.org/project/pyrandtoys/)
@@ -30,8 +30,8 @@ I'm Nithin Balaji (@thenithinbalaji) - A web developer, minimalism advocate, dis
    pip install pyrandtoys
    ```
     
-   - [5 Personalities Prediction](https://github.com/thenithinbalaji/5Personalities) - Personality Prediction based on Big 5 Model. Uses Multinomial Logistic Regression for Classification - HTML, Tailwind, Flask and Scikit-learn 
-
+   - [5 Personalities Prediction](https://github.com/thenithinbalaji/5Personalities) - Personality Prediction based on Big 5 Model. Uses Multinomial Logistic Regression for Classification - HTML, Tailwind, Flask and Scikit-learn.
+   - [GitHub Repo Fetcher](https://github.com/thenithinbalaji/Repolist) - Web App to fetch GitHub public and private repo data - HTML, Tailwind, Flask and Postgres.
 ----
 
 - 💬 **Discord ChatBots & Their Support Sites** - [Doge Memer Bot](https://github.com/thenithinbalaji/Doge-Memer), [Doge Memer Website](https://github.com/thenithinbalaji/Doge-Memer-Website), [Krypto Cry Bot](https://github.com/thenithinbalaji/Krypto-Cry) - Python
@@ -47,7 +47,7 @@ I'm Nithin Balaji (@thenithinbalaji) - A web developer, minimalism advocate, dis
 
 <p align="center">
   <a href="https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=&sort=stargazers" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,flask,django,mongodb,vscode,git,cpp,bots" alt="skill badges icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,flask,express,nodejs,mongodb,vscode,git,cpp,bots" alt="skill badges icons" />
   </a>
 </p>
 
