@@ -47,7 +47,7 @@ I'm Nithin Balaji (@thenithinbalaji) - A web developer, minimalism advocate, dis
 
 <p align="center">
   <a href="https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=&sort=stargazers" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,flask,express,nodejs,mongodb,vscode,git,cpp,bots" alt="skill badges icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,flask,express,nodejs,mongodb,cpp" alt="skill badges icons" />
   </a>
 </p>
 
