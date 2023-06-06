@@ -10,7 +10,7 @@ I'm Nithin Balaji (@thenithinbalaji) - A web developer, minimalism advocate, dis
 
 ----
 
-- 🌐 **React & Tailwind** - [Meme Generator](https://github.com/thenithinbalaji/Meme-Generator), [Clonebnb](https://github.com/thenithinbalaji/Clonebnb)
+- [Favalist](https://github.com/thenithinbalaji/Favalist) - An open-source social platform where you can share your favorite things with the world and meet new people with similar tastes - HTML, Tailwind, Angular.js, Express, Node.js and MongoDB.
 
 - 🚌 **School & College Management Systems**
   - [Bus Tracker](https://github.com/thenithinbalaji/Bus-Tracker) - College Bus Tracker Web Application for *SSN College of Engineering*. Tracks the buses based on the location collected from passengers travelling in the bus - HTML, CSS, Flask and MongoDB.
@@ -32,6 +32,7 @@ I'm Nithin Balaji (@thenithinbalaji) - A web developer, minimalism advocate, dis
     
    - [5 Personalities Prediction](https://github.com/thenithinbalaji/5Personalities) - Personality Prediction based on Big 5 Model. Uses Multinomial Logistic Regression for Classification - HTML, Tailwind, Flask and Scikit-learn.
    - [GitHub Repo Fetcher](https://github.com/thenithinbalaji/Repolist) - Web App to fetch GitHub public and private repo data - HTML, Tailwind, Flask and Postgres.
+  -  [Meme Generator](https://github.com/thenithinbalaji/Meme-Generator), [Clonebnb](https://github.com/thenithinbalaji/Clonebnb) - React and Tailwind
 ----
 
 - 💬 **Discord ChatBots & Their Support Sites** - [Doge Memer Bot](https://github.com/thenithinbalaji/Doge-Memer), [Doge Memer Website](https://github.com/thenithinbalaji/Doge-Memer-Website), [Krypto Cry Bot](https://github.com/thenithinbalaji/Krypto-Cry) - Python
