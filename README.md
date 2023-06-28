@@ -143,7 +143,9 @@ I'm passionate about engineering and development. I specialize in creating minim
   </a>
 </p>
 
-## Interests & Stats
+----
+
+## ⭐ Interests & Stats
 <details>
   <summary>Click here to view my interests!</summary>
   <br> 
