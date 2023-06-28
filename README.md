@@ -102,17 +102,6 @@ I'm passionate about engineering and development. I specialize in creating minim
   <br>
    
   <li>
-    <a href="https://github.com/thenithinbalaji/pyrandtoys">Pyrandtoys</a> <br> 
-    A Python module for generating the result of probability-based toys. Installable on any system with pip command. <br/>
-    <a href="https://github.com/thenithinbalaji/pyrandtoys">Read the docs</a> | <a href="https://pypi.org/project/pyrandtoys/">Install From Pypi</a>
-    <br/>
-    <br/>
-    <pre><code>pip install pyrandtoys</code></pre>
-  </li>
-    
-   <br>
-   
-  <li>
     <a href="https://github.com/thenithinbalaji/5Personalities">5 Personalities Prediction</a> <br> 
     Personality Prediction based on the Big 5 Model. Uses Multinomial Logistic Regression for Classification. <br/> 
     Stack - HTML, Tailwind, Flask and Scikit-learn.
@@ -126,6 +115,16 @@ I'm passionate about engineering and development. I specialize in creating minim
     Stack - HTML, Tailwind, Flask and Postgres.
   </li>
 
+  <br>
+
+  <li>
+    <a href="https://github.com/thenithinbalaji/pyrandtoys">Pyrandtoys</a> <br> 
+    A Python module for generating the result of probability-based toys. Installable on any system with pip command. <br/>
+    <a href="https://github.com/thenithinbalaji/pyrandtoys">Read the docs</a> | <a href="https://pypi.org/project/pyrandtoys/">Install From Pypi</a>
+    <br/>
+    <br/>
+    <pre><code>pip install pyrandtoys</code></pre>
+  </li>
   </ul>
 
 </details>
