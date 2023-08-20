@@ -2,8 +2,8 @@
 
 [![View This Markdown in GhPages](https://github.com/thenithinbalaji/thenithinbalaji/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://thenithinbalaji.github.io/thenithinbalaji/)
 [![Profile Views Count Badge](https://komarev.com/ghpvc/?username=thenithinbalaji&color=blue&label=PROFILE+VIEWS)](https://github.com/thenithinbalaji)<br>
-[![View Markdown in Raw Form](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://raw.githubusercontent.com/thenithinbalaji/thenithinbalaji/main/README.md)
-[![View All My Repos](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=&sort=stargazers)<br>
+[![View Markdown in Raw Form](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/made-with-markdown.svg)](https://raw.githubusercontent.com/thenithinbalaji/thenithinbalaji/main/README.md)
+[![View All My Repos](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/built-with-love.svg)](https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=&sort=stargazers)<br>
 [![Buy Me a Coffee](https://github.com/thenithinbalaji/thenithinbalaji/blob/main/assets/buy-me-a-coffee.svg)](https://www.buymeacoffee.com/thenithinbalaji)
 
 I'm Nithin Balaji (@thenithinbalaji) - A web developer, minimalism advocate, discord moderator, freelancer, and information technology undergrad from India. I'm interested in web development, open-source, and anything that sparks my creativity.   
