@@ -1,7 +1,14 @@
 # Work-ed/ing on
 
-[JSON of all my projects](https://raw.githubusercontent.com/thenithinbalaji/assets/main/repos.json)  
-[Cool Projects](https://github.com/stars/thenithinbalaji/lists/my-cool-projects)
+## External Links
+- [JSON of all my projects](https://raw.githubusercontent.com/thenithinbalaji/assets/main/repos.json)  
+- [Cool Projects](https://github.com/stars/thenithinbalaji/lists/my-cool-projects)
+
+## Contents 
+- [Full-Stack Web Projects](https://github.com/thenithinbalaji/thenithinbalaji/blob/main/PROJECTS.md#-full-stack-web-dev-projects)
+- [Discord Chatbots](https://github.com/thenithinbalaji/thenithinbalaji/blob/main/PROJECTS.md#-discord-chatbots)
+- [Built using Python](https://github.com/thenithinbalaji/thenithinbalaji/blob/main/PROJECTS.md#-built-using-python)
+- [Chrome Extensions](https://github.com/thenithinbalaji/thenithinbalaji/blob/main/PROJECTS.md#-chrome-extensions)
 
 ----
 
@@ -51,7 +58,7 @@
   Stack - React, Tailwind, Go, Postgres
 </li>
 
-----
+---
 
 ## 💬 Discord ChatBots 
 
@@ -107,9 +114,9 @@
   <pre><code>pip install pyrandtoys</code></pre>
 </li>
 
------
+---
 
-### 🍄 Chrome Extensions
+## 🍄 Chrome Extensions
 
 <li>
      <a href="https://github.com/thenithinbalaji/PadiDa-Extension">Website Blocker</a> <br>
