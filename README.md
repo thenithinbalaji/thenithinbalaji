@@ -28,9 +28,9 @@ I'm Nithin Balaji (@thenithinbalaji) - A [web developer](https://github.com/star
 
 <br />
 
-- 📫 **How to reach me -** [thenithinbalaji@gmail.com](mailto:thenithinbalaji@gmail.com)
-- 💬 **Join My Discord Server -** [discord.gg/Xqgzyngnda](https://discord.gg/Xqgzyngnda)
-- 🌱 **Buy me a Coffee -** [buymeacoffee.com/thenithinbalaji](https://www.buymeacoffee.com/thenithinbalaji)
+📫 **How to reach me -** [thenithinbalaji@gmail.com](mailto:thenithinbalaji@gmail.com)  
+💬 **Join My Discord Server -** [discord.gg/Xqgzyngnda](https://discord.gg/Xqgzyngnda)  
+🌱 **Buy me a Coffee -** [buymeacoffee.com/thenithinbalaji](https://www.buymeacoffee.com/thenithinbalaji)
 
 <p align = 'right'>
   <a href = 'https://www.linkedin.com/in/thenithinbalaji/' target="_blank"> 
