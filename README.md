@@ -1,9 +1,5 @@
 # 👋 Hello There
 
-[![View Markdown in Raw Form](https://github.com/thenithinbalaji/thenithinbalaji/blob/main/assets/made-with-markdown.svg)](https://raw.githubusercontent.com/thenithinbalaji/thenithinbalaji/main/README.md)
-[![View All My Repos](https://github.com/thenithinbalaji/thenithinbalaji/blob/main/assets/built-with-love.svg)](https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=&sort=stargazers)<br>
-[![Buy Me a Coffee](https://github.com/thenithinbalaji/thenithinbalaji/blob/main/assets/buy-me-a-coffee.svg)](https://www.buymeacoffee.com/thenithinbalaji)
-
 I'm Nithin Balaji (@thenithinbalaji) - A [web developer](https://github.com/stars/thenithinbalaji/lists/my-web-dev-repos), minimalism advocate, [discord bot developer](https://discordbotlist.com/users/756511707228143646), and [information technology undergrad](https://www.linkedin.com/in/thenithinbalaji/) from India. I work on anything that sparks my creativity. I dabble with [**COOL PROJECTS**](https://github.com/stars/thenithinbalaji/lists/my-cool-projects) in my free time. I'm passionate about engineering and development. With [experience](https://www.linkedin.com/in/thenithinbalaji/) in startups and freelancing as a developer, I love leveraging my creativity to build innovative stuff. Feel free to hit me up if you have a cool project that I can work on! 
 
 [List of Featured Projects ↗](https://github.com/thenithinbalaji/thenithinbalaji/blob/main/PROJECTS.md)  
@@ -30,9 +26,11 @@ I'm Nithin Balaji (@thenithinbalaji) - A [web developer](https://github.com/star
 
 <!--END_SECTION:waka-->
 
+<br />
+
 - 📫 **How to reach me -** [thenithinbalaji@gmail.com](mailto:thenithinbalaji@gmail.com)
-- 💬 **Join My Discord Server -** [https://discord.gg/Xqgzyngnda](https://discord.gg/Xqgzyngnda)
-- 😄 **Pronouns -** He/Him 
+- 💬 **Join My Discord Server -** [discord.gg/Xqgzyngnda](https://discord.gg/Xqgzyngnda)
+- 🌱 **Buy me a Coffee -** [buymeacoffee.com/thenithinbalaji](https://www.buymeacoffee.com/thenithinbalaji)
 
 <p align = 'right'>
   <a href = 'https://www.linkedin.com/in/thenithinbalaji/' target="_blank"> 
