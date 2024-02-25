@@ -1,6 +1,7 @@
 # Work-ed/ing on
 
-[JSON of all my projects](https://raw.githubusercontent.com/thenithinbalaji/assets/main/repos.json)
+[JSON of all my projects](https://raw.githubusercontent.com/thenithinbalaji/assets/main/repos.json)  
+[Cool Projects](https://github.com/stars/thenithinbalaji/lists/my-cool-projects)
 
 ----
 
