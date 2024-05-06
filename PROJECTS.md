@@ -63,8 +63,9 @@
 ## 💬 Discord ChatBots 
 
 <li>
-    <a href="https://github.com/thenithinbalaji/Doge-Memer">Doge Memer Bot</a>, <a href="https://github.com/thenithinbalaji/Doge-Memer-Website">Doge Memer Website</a> <br /> 
+    <a href="https://github.com/thenithinbalaji/Doge-Memer">Doge Memer Bot</a> <br /> 
     A discord server entertainment bot that can send memes and jokes. <br /> 
+    Visit the <a href="https://thenithinbalaji.github.io/Doge-Memer-Website/">Website</a> <br>
     Stack - Python, MongoDB, and Discord API
 </li>
 
@@ -92,6 +93,7 @@
 <li>
   <a href="https://github.com/thenithinbalaji/5Personalities">5 Personalities Prediction</a> <br> 
   Personality Prediction based on the Big 5 Model. Uses Multinomial Logistic Regression for Classification. <br/> 
+  <a href="https://fivepersonalities.onrender.com/">Live Site on Render ↗</a> <br/>
   Stack - HTML, Tailwind, Flask and Scikit-learn.
 </li>
 
