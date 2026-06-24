@@ -16,10 +16,10 @@ I'm Nithin Balaji (@thenithinbalaji) - A [web developer](https://github.com/star
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                730 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-🌆 Daytime                948 commits         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-🌃 Evening                2059 commits        ███████████░░░░░░░░░░░░░░   42.56 % 
-🌙 Night                  1101 commits        ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+🌞 Morning                730 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+🌆 Daytime                948 commits         █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+🌃 Evening                2051 commits        ███████████░░░░░░░░░░░░░░   42.49 % 
+🌙 Night                  1098 commits        ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
 ```
 
 
