@@ -13,6 +13,22 @@ I'm Nithin Balaji (@thenithinbalaji) - A [web developer](https://github.com/star
 </p>
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                730 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+🌆 Daytime                948 commits         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+🌃 Evening                2059 commits        ███████████░░░░░░░░░░░░░░   42.56 % 
+🌙 Night                  1101 commits        ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+```
+
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 
